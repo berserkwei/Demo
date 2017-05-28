@@ -1,20 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5174104F-8FBF-45B3-810B-AFB2FF91D60E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{303C6911-0BB5-467F-A5D8-3D5535E77AD3}"
-	ProjectSection(SolutionItems) = preProject
-		global.json = global.json
-	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "FrontTie", "src\MultiTieDemo\FrontTie.xproj", "{49D75374-BEC6-443A-A3DA-49F5215D03A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiTieDemo", "src\MultiTieDemo\MultiTieDemo.csproj", "{49D75374-BEC6-443A-A3DA-49F5215D03A4}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MiddleTie", "src\MiddleTie\MiddleTie.xproj", "{5C9DA4EE-E1CE-4046-ABBE-BD9795C90CEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddleTie", "src\MiddleTie\MiddleTie.csproj", "{5C9DA4EE-E1CE-4046-ABBE-BD9795C90CEA}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "BackEnd", "src\BackEnd\BackEnd.xproj", "{16D1B0A5-0A3A-4B18-A4C9-418999B3AB95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackEnd", "src\BackEnd\BackEnd.csproj", "{16D1B0A5-0A3A-4B18-A4C9-418999B3AB95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

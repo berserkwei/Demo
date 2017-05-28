@@ -1,0 +1,8 @@
+E:\GitHub\Demo\MultiTieDemo\src\MiddleTie\bin\Debug\netcoreapp1.0\MiddleTie.deps.json
+E:\GitHub\Demo\MultiTieDemo\src\MiddleTie\bin\Debug\netcoreapp1.0\MiddleTie.runtimeconfig.json
+E:\GitHub\Demo\MultiTieDemo\src\MiddleTie\bin\Debug\netcoreapp1.0\MiddleTie.runtimeconfig.dev.json
+E:\GitHub\Demo\MultiTieDemo\src\MiddleTie\bin\Debug\netcoreapp1.0\MiddleTie.dll
+E:\GitHub\Demo\MultiTieDemo\src\MiddleTie\bin\Debug\netcoreapp1.0\MiddleTie.pdb
+E:\GitHub\Demo\MultiTieDemo\src\MiddleTie\obj\Debug\netcoreapp1.0\MiddleTie.AssemblyInfo.cs
+E:\GitHub\Demo\MultiTieDemo\src\MiddleTie\obj\Debug\netcoreapp1.0\MiddleTie.dll
+E:\GitHub\Demo\MultiTieDemo\src\MiddleTie\obj\Debug\netcoreapp1.0\MiddleTie.pdb

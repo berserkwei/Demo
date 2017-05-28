@@ -1,0 +1,8 @@
+E:\github\Demo\MultiTieDemo\src\BackEnd\bin\release\netcoreapp1.0\BackEnd.deps.json
+E:\github\Demo\MultiTieDemo\src\BackEnd\bin\release\netcoreapp1.0\BackEnd.runtimeconfig.json
+E:\github\Demo\MultiTieDemo\src\BackEnd\bin\release\netcoreapp1.0\BackEnd.runtimeconfig.dev.json
+E:\github\Demo\MultiTieDemo\src\BackEnd\bin\release\netcoreapp1.0\BackEnd.dll
+E:\github\Demo\MultiTieDemo\src\BackEnd\bin\release\netcoreapp1.0\BackEnd.pdb
+E:\github\Demo\MultiTieDemo\src\BackEnd\obj\release\netcoreapp1.0\BackEnd.AssemblyInfo.cs
+E:\github\Demo\MultiTieDemo\src\BackEnd\obj\release\netcoreapp1.0\BackEnd.dll
+E:\github\Demo\MultiTieDemo\src\BackEnd\obj\release\netcoreapp1.0\BackEnd.pdb
