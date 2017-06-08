@@ -20,7 +20,7 @@ namespace BackEnd.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "Version 1";
+            return "Version 1.1";
         }
 
         // POST api/values
